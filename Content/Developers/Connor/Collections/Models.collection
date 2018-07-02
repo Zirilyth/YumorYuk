@@ -3,3 +3,6 @@ Type:Static
 Guid:7FF37D40-4331-10D7-9998-2381DA9D13DD
 ParentGuid:00000000-0000-0000-0000-000000000000
 
+/Game/YumOrYuk/Assets/Castle/CastleGate.CastleGate
+/Game/YumOrYuk/Assets/Castle/CastleTower.CastleTower
+/Game/YumOrYuk/Assets/Castle/CastleWall.CastleWall
